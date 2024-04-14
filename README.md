@@ -18,8 +18,7 @@ for enhancing the writing experience.
 **Objective:**
  
 The project's objectives include developing an accurate and efficient system for automated 
-grammatical error detection. Utilizing machine learning and NLP techniques, the goal is to 
-TKIET, Warananagar  2 
+grammatical error detection. Utilizing machine learning and NLP techniques, the goal is to  
 create a versatile tool that adapts to diverse writing styles. The project emphasizes user-friendly 
 interfaces, thorough testing, and documentation to ensure robustness and accessibility. 
 Continuous improvement, collaboration with mentors, and potential implementation of error 
